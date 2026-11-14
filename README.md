@@ -97,4 +97,4 @@ The main objective of CHROMASHIFT is to develop an interactive browser-based gam
 
 ## 📜 License
 
-This project is created for educational and learning purposes.
+This project is created for educational and learning purposes.![alt text](image.png)
